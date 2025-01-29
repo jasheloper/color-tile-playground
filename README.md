@@ -1,2 +1,2 @@
-# color-tile-playground
+# Color Tile Playground
 Color Tile Playground
