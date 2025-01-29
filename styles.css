@@ -32,8 +32,7 @@ ul {
 }
 
 #container {
-  margin: 0 auto;
-  padding-top: 2em;
+  margin-top: 2em;
 }
 
 .tile {
@@ -73,7 +72,8 @@ ul {
 
 @media (max-width: 480px) {
   .tile {
-    width: 100%;
+    width: calc(50% - 20px);
+    height: 120px;
   }
   header {
     padding: 27px 0;
@@ -89,3 +89,4 @@ ul {
     padding: 10px;
   }
 }
+
