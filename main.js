@@ -13,3 +13,7 @@ function random(number) {
   container.addEventListener("mouseover", (event) => {
     event.target.style.backgroundColor = bgChange();
   });
+
+  container.addEventListener("touchstart", (event) => {
+    event.target.style.backgroundColor = bgChange();
+  });
