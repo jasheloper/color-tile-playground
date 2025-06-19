@@ -5,7 +5,7 @@
 
 **Link:** [Click to view demo](https://jasheloper.github.io/color-tile-playground/)
 
-[![Color tile playground preview](/images/read-me-preview.png)]([link_url](https://jasheloper.github.io/color-tile-playground/))
+[![Color tile preview](/images/read-me-preview.png)](https://jasheloper.github.io/color-tile-playground/)
 
 
 ## Key Features
